@@ -1,0 +1,8 @@
+{"level":"http","message":"GET /api/members 304 - - 338.747 ms","timestamp":"2023-03-29 20:37:30"}
+{"level":"http","message":"GET /api/members 304 - - 540.101 ms","timestamp":"2023-03-29 20:37:31"}
+{"level":"http","message":"GET /api/members 304 - - 312.586 ms","timestamp":"2023-03-29 20:37:31"}
+{"level":"http","message":"GET /api/opportunities/events 304 - - 3302.347 ms","timestamp":"2023-03-29 20:37:38"}
+{"level":"http","message":"GET /api/opportunities/events 304 - - 1662.161 ms","timestamp":"2023-03-29 20:37:40"}
+{"level":"http","message":"GET /api/members 304 - - 2955.682 ms","timestamp":"2023-03-29 20:39:11"}
+{"level":"http","message":"GET /api/members 304 - - 1456.208 ms","timestamp":"2023-03-29 20:39:13"}
+{"level":"http","message":"GET /api/members 304 - - 1872.167 ms","timestamp":"2023-03-29 20:39:15"}
