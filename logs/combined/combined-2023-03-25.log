@@ -1,6 +1,0 @@
-{"level":"info","message":"Server started at port 8000","timestamp":"2023-03-25 09:59:06"}
-{"level":"info","message":"MongoDB connected...","timestamp":"2023-03-25 09:59:06"}
-{"level":"info","message":"Server started at port 8000","timestamp":"2023-03-25 10:25:37"}
-{"level":"error","message":"bad auth : authentication failed","timestamp":"2023-03-25 10:25:40"}
-{"level":"info","message":"Server started at port 8000","timestamp":"2023-03-25 10:30:19"}
-{"level":"info","message":"MongoDB connected...","timestamp":"2023-03-25 10:30:19"}

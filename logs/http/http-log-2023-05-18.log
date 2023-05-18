@@ -1,0 +1,5 @@
+{"level":"http","message":"GET /api/members 200 2438 - 1376.551 ms","timestamp":"2023-05-18 23:30:36"}
+{"level":"http","message":"GET /api/members 304 - - 341.145 ms","timestamp":"2023-05-18 23:30:36"}
+{"level":"http","message":"GET /api/members 304 - - 307.939 ms","timestamp":"2023-05-18 23:30:37"}
+{"level":"http","message":"GET /api/opportunities/events 200 7635 - 312.265 ms","timestamp":"2023-05-18 23:30:49"}
+{"level":"http","message":"GET /api/opportunities/events 304 - - 309.358 ms","timestamp":"2023-05-18 23:30:49"}
